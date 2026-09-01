@@ -1,0 +1,9 @@
+/*
+  Content-Security-Policy can be tightened further when all external assets
+  and Telegram destinations are finalized.
+*/
+/ref/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: geolocation=(), microphone=(), camera=()

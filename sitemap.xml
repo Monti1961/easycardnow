@@ -1,39 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://easycardnow.xyz/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/virtual-card/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/usdt-card/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/how-to-buy-usdt/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/how-to-top-up/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/kyc/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/fees/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/faq/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://easycardnow.xyz/blog/</loc>
-    <lastmod>2026-08-28</lastmod>
-  </url>
+<url><loc>https://easycardnow.xyz/</loc></url>
+<url><loc>https://easycardnow.xyz/virtual-card/</loc></url>
+<url><loc>https://easycardnow.xyz/usdt-card/</loc></url>
+<url><loc>https://easycardnow.xyz/how-to-buy-usdt/</loc></url>
+<url><loc>https://easycardnow.xyz/how-to-top-up/</loc></url>
+<url><loc>https://easycardnow.xyz/kyc/</loc></url>
+<url><loc>https://easycardnow.xyz/fees/</loc></url>
+<url><loc>https://easycardnow.xyz/faq/</loc></url>
+<url><loc>https://easycardnow.xyz/how-it-works/</loc></url>
+<url><loc>https://easycardnow.xyz/security/</loc></url>
+<url><loc>https://easycardnow.xyz/about/</loc></url>
+<url><loc>https://easycardnow.xyz/terms/</loc></url>
+<url><loc>https://easycardnow.xyz/privacy/</loc></url>
+<url><loc>https://easycardnow.xyz/risk-disclosure/</loc></url>
+<url><loc>https://easycardnow.xyz/blog/</loc></url>
 </urlset>
