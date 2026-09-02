@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://easycardnow.xyz/</loc></url>
-<url><loc>https://easycardnow.xyz/virtual-card/</loc></url>
-<url><loc>https://easycardnow.xyz/usdt-card/</loc></url>
-<url><loc>https://easycardnow.xyz/how-to-buy-usdt/</loc></url>
-<url><loc>https://easycardnow.xyz/how-to-top-up/</loc></url>
-<url><loc>https://easycardnow.xyz/kyc/</loc></url>
-<url><loc>https://easycardnow.xyz/fees/</loc></url>
-<url><loc>https://easycardnow.xyz/faq/</loc></url>
-<url><loc>https://easycardnow.xyz/how-it-works/</loc></url>
-<url><loc>https://easycardnow.xyz/security/</loc></url>
-<url><loc>https://easycardnow.xyz/about/</loc></url>
-<url><loc>https://easycardnow.xyz/terms/</loc></url>
-<url><loc>https://easycardnow.xyz/privacy/</loc></url>
-<url><loc>https://easycardnow.xyz/risk-disclosure/</loc></url>
-<url><loc>https://easycardnow.xyz/blog/</loc></url>
+  <url><loc>https://easycardnow.xyz/</loc></url>
+  <url><loc>https://easycardnow.xyz/about/</loc></url>
+  <url><loc>https://easycardnow.xyz/blog/</loc></url>
+  <url><loc>https://easycardnow.xyz/faq/</loc></url>
+  <url><loc>https://easycardnow.xyz/fees/</loc></url>
+  <url><loc>https://easycardnow.xyz/how-it-works/</loc></url>
+  <url><loc>https://easycardnow.xyz/how-to-buy-usdt/</loc></url>
+  <url><loc>https://easycardnow.xyz/how-to-top-up/</loc></url>
+  <url><loc>https://easycardnow.xyz/kyc/</loc></url>
+  <url><loc>https://easycardnow.xyz/privacy/</loc></url>
+  <url><loc>https://easycardnow.xyz/risk-disclosure/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/about/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/blog/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/faq/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/fees/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/how-it-works/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/how-to-buy-usdt/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/how-to-top-up/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/kyc/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/privacy/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/risk-disclosure/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/security/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/terms/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/usdt-card/</loc></url>
+  <url><loc>https://easycardnow.xyz/ru/virtual-card/</loc></url>
+  <url><loc>https://easycardnow.xyz/security/</loc></url>
+  <url><loc>https://easycardnow.xyz/terms/</loc></url>
+  <url><loc>https://easycardnow.xyz/usdt-card/</loc></url>
+  <url><loc>https://easycardnow.xyz/virtual-card/</loc></url>
 </urlset>
