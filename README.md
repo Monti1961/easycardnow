@@ -17,3 +17,6 @@ The site includes English and Russian versions. Russian pages live under `/ru/` 
 
 ## Legal operator data
 Service Provider: Paylinium. Postal address: Harju maakond, Tallinn, Põhja-Tallinna linnaosa, Sõle tn 61a-5, 10313, Estonia. Contact: support@paylinium.com. Governing law stated in the provider terms: Estonia; courts: Tallinn, subject to mandatory applicable jurisdiction rules.
+
+
+Latest update: cross-links to the new Teletype article https://teletype.in/@monti1961/HgNJutlwSg7 are included in the EN/RU article and blog pages.
